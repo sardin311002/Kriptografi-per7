@@ -8,12 +8,12 @@ Please enter if you want to encrypt or decrypt a text. <br>
 Please put "Encrypt", "Decrypt" or "Exit": <br>
 Encrypt<br>
 Please enter your plaintext: <br>
-upb
+upb<br>
 Please input your first encryption key, make sure it is a coprime of 26: <br>
-5
+5<br>
 Please enter the second encryption key: <br>
-8
-EFN
+8<br>
+EFN<br>
 Please enter if you want to encrypt or decrypt a text. <br>
 Please put "Encrypt", "Decrypt" or "Exit": <br>
 
